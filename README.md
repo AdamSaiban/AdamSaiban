@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Adam Saiban 👋
 
-<!--
-**AdamSaiban/AdamSaiban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+San Francisco Bay Area · AI data annotator · Building apps, games and films
 
-Here are some ideas to get you started:
+I train AI models at Handshake AI, and I spend my free time building software, games and virtual productions. Before tech, I spent 20+ years running small businesses, plus IT and A/V support at Wells Fargo's San Francisco event center.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 What I'm building
+- **MVPlingo**: a language-learning app and website with virtual classrooms, a full curriculum and a built-in AI tutor (TypeScript)
+- **MVP-Fallen-Angels**: a PC video game in development in Unity, planned for Steam
+- **MVP-Entertainment**: animated short films and episodic series made in Unreal Engine
+- **U.S.A Janitorial Service website**: a custom business website with SEO for my family's company
+
+*Most of my repositories are private while in development. Code is available on request.*
+
+## 🛠️ Tools & languages
+Python · SQL · Java · C++ · C# · TypeScript · HTML · Bash · Git/GitHub · VS Code · Visual Studio · Unity · Unreal Engine · Hugging Face · Kaggle · Claude Code
+
+## 📫 Contact
+- LinkedIn: [linkedin.com/in/adamsaiban](https://www.linkedin.com/in/adamsaiban)
+- Email: adamsaiban@outlook.com
