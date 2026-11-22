@@ -6,9 +6,9 @@ I train AI models at Handshake AI, and I spend my free time building software, g
 
 ## 🚧 What I'm building
 - **MVPlingo**: a language-learning app and website with virtual classrooms, a full curriculum and a built-in AI tutor (TypeScript)
-- **MVP-Fallen-Angels**: a PC video game in development in Unity, planned for Steam
-- **MVP-Entertainment**: animated short films and episodic series made in Unreal Engine
-- **U.S.A Janitorial Service website**: a custom business website with SEO for my family's company
+- **MVP Fallen Angels**: a PC video game in development in Unity, planned for Steam
+- **MVP Entertainment**: animated short films and episodic series made in Unreal Engine
+- **U.S.A Janitorial Service**: a custom business website with SEO for my family's company
 
 *Most of my repositories are private while in development. Code is available on request.*
 
@@ -18,3 +18,4 @@ Python · SQL · Java · C++ · C# · TypeScript · HTML · Bash · Git/GitHub �
 ## 📫 Contact
 - LinkedIn: [linkedin.com/in/adamsaiban](https://www.linkedin.com/in/adamsaiban)
 - Email: adamsaiban@outlook.com
+
